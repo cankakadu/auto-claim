@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "ticketbot",
+  "version": "${version}",
+  "name": "TicketBot",
+  "description": "Claimt automatisch Tickets im Players-help-Players-Menue und klickt sonst auf Refresh.",
+  "environment": "client",
+  "entrypoints": { "client": ["dev.example.ticketbot.TicketBot"] },
+  "depends": { "fabricloader": ">=0.18.0", "minecraft": "1.21.11", "fabric-api": "*" }
+}

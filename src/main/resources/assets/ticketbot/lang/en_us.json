@@ -1,0 +1,5 @@
+{
+  "key.ticketbot.toggle": "Toggle TicketBot",
+  "key.ticketbot.dump": "List buttons in chat (debug)",
+  "key.category.ticketbot.main": "TicketBot"
+}
